@@ -21,6 +21,7 @@ public class Autor {
     private Boolean alta;
     
     private String atrib1;
+    private String atrib2;
 
     public Autor() {
     }
